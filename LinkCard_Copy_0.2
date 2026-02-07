@@ -8,8 +8,8 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=ameba.jp
 // @noframes
 // @grant        none
-// @updateURL        https://github.com/personwritep/LinkCard-Img_Copy/raw/main/LinkCard_Copy.user.js
-// @downloadURL        https://github.com/personwritep/LinkCard-Img_Copy/raw/main/LinkCard_Copy.user.js
+// @updateURL        https://github.com/personwritep/LinkCard-FA_Copy/raw/main/LinkCard_Copy.user.js
+// @downloadURL        https://github.com/personwritep/LinkCard-FA_Copy/raw/main/LinkCard_Copy.user.js
 // ==/UserScript==
 
 
